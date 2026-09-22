@@ -1,0 +1,4 @@
+pymongo>=4.10
+voyageai>=0.3
+ollama>=0.4
+python-dotenv>=1.0
